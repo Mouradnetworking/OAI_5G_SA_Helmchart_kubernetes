@@ -1,8 +1,39 @@
 
 # OAI 5G Core and RAN Network Function Deployment using Helm Charts on Kubernetes
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+The OpenAirInterface (OAI) project provides open-source implementations for 5G wireless technologies. This repository aims to simplify the deployment of OAI 5G Core and RAN components on Kubernetes using Helm Charts.
+
 ![Screenshot from 2024-04-30 21-10-59](https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes/assets/155429869/019ec56e-3128-4e35-946f-9a9b18853663)
 
-# Pods
+## Prerequisites
+
+Before deploying OAI 5G Core and RAN on Kubernetes, ensure you have the following prerequisites installed:
+
+- Kubernetes cluster (e.g., Minikube, etc.)
+- Helm (Helm v3 recommended)
+- Docker
+- Ubuntu 22.04
+
+## Usage
+
+To deploy OAI 5G Core and RAN on Kubernetes, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes.git
+   cd OAI_5G_SA_Helmchart_kubernetes
+
+# CN Pods
 
 ![Screenshot from 2024-04-28 13-06-32](https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes/assets/155429869/2512c537-ac29-490e-b4d1-48952c620011)
 
