@@ -35,7 +35,7 @@ To deploy OAI 5G Core and RAN on Kubernetes, follow these steps:
 
 # CN Pods
 
-![Screenshot from 2024-04-30 21-37-46](https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes/assets/155429869/1bd60940-2ac9-4cb7-b75f-0d8a21f5e55c)
+![Screenshot from 2024-04-30 21-44-08](https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes/assets/155429869/ea65257c-2508-4051-9c6d-894b60fe7211)
 
 # Kubernetes Dashboard
 
