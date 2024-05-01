@@ -13,7 +13,8 @@
 
 The OpenAirInterface (OAI) project provides open-source implementations for 5G wireless technologies. This repository aims to simplify the deployment of OAI 5G Core and RAN components on Kubernetes using Helm Charts.
 
-![Screenshot from 2024-04-30 21-10-59](https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes/assets/155429869/019ec56e-3128-4e35-946f-9a9b18853663)
+![Primary Container Network Interface](https://github.com/Mouradnetworking/OAI_5G_SA_Helmchart_kubernetes/assets/155429869/d496f792-a5df-4087-a5cd-1cf9f1cd8c88)
+
 
 ## Prerequisites
 
